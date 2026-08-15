@@ -1,0 +1,1 @@
+document.getElementById("cta").onclick=()=>alert("Thanks for visiting NaveenSoft!");
